@@ -1,0 +1,12 @@
+.btn{
+    display: block;
+    width:500px;
+    height:200px;
+    margin-top: auto;
+}
+
+.photo{
+    display: block;  
+    width:100px;
+    height:50px;
+}
